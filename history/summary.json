@@ -41,17 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/shadowdara.42web.io.ico",
     "slug": "shadowdara-infinityfree",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "5.94%",
+    "uptimeDay": "5.94%",
+    "uptimeWeek": "5.94%",
+    "uptimeMonth": "5.94%",
+    "uptimeYear": "5.94%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-21": 0
+    }
   },
   {
     "name": "no fucking CORS - Vercel",
